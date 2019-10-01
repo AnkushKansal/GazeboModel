@@ -1,2 +1,2 @@
 # GazeboModel
- A building and Bot in gazebo with Plugin
+ A building and bot in gazebo with gazebo runtime Plugin. Prints Welcome meessage
